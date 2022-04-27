@@ -24,7 +24,7 @@ function Register() {
         <div className="form-group m-2">
           <label htmlFor="password">password</label>
           <input
-            type="email"
+            type="password"
             className="form-control"
             placeholder="Enter password"
           />
